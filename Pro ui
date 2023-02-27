@@ -194,7 +194,6 @@ local MRPage = Tab:CreateFrame("Mobile Reach")
 local TPPage = Tab:CreateFrame("Teleports")
 local CPage = Tab:CreateFrame("Celebrations")
 local VPage = Tab:CreateFrame("Visuals")
-local CRPage = Tab:CreateFrame("Credits")
 
 GKPage:CreateLabel("Miscellaneous")
 
