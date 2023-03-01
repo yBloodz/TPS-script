@@ -28,3 +28,6 @@ firetouchinterest(game.Players.LocalPlayer.Character["LeftLowerLeg"], game.Works
 			end
 			end)
 end)
+
+local DistanceReachMobile = 8
+end)
