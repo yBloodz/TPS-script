@@ -1,5 +1,5 @@
 local RunSteppedMobile
-local DistanceReachMobile = 0
+local DistanceReachMobile = 8
 
 function()
     RunSteppedMobile = game:GetService("RunService").RenderStepped:Connect(function()
@@ -27,7 +27,4 @@ firetouchinterest(game.Players.LocalPlayer.Character["LeftLowerLeg"], game.Works
 			end
 			end
 			end)
-end)
-
-local DistanceReachMobile = 8
 end)
